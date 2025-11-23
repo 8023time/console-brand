@@ -1,0 +1,122 @@
+{
+  "app": {
+    "title": "Console Artisan",
+    "subtitle": "Developer Log Styling Kit",
+    "ready": "Ready",
+    "version": "v1.4.0",
+    "theme": {
+      "dark": "Dark",
+      "light": "Light"
+    }
+  },
+  "sequence": {
+    "title": "Log Sequence",
+    "add": "Add Log",
+    "empty": "No logs in sequence",
+    "item": "Log"
+  },
+  "ai": {
+    "sectionTitle": "AI Generator",
+    "placeholder": "Describe style (e.g. 'Cyberpunk Error')",
+    "btnStyles": "Styles",
+    "btnData": "Data",
+    "generating": "Thinking..."
+  },
+  "library": {
+    "title": "My Library",
+    "save": "Save Preset",
+    "savePlaceholder": "Preset Name...",
+    "empty": "No saved presets yet.",
+    "load": "Load",
+    "delete": "Delete",
+    "saved": "Saved!"
+  },
+  "tabs": {
+    "logType": "Log Type",
+    "presets": "Quick Presets"
+  },
+  "inputs": {
+    "messageLabel": "Message Content",
+    "messagePlaceholder": "What do you want to log?",
+    "jsonLabel": "Label",
+    "jsonPayload": "JSON Payload",
+    "asciiText": "Text to Art",
+    "asciiPlaceholder": "Type text...",
+    "emojiLabel": "Emoji Character"
+  },
+  "controls": {
+    "appearance": "Appearance",
+    "typography": "Typography",
+    "boxModel": "Box Model",
+    "gradientSetup": "Gradient Setup",
+    "badgeConfig": "Badge Config",
+    "imageSettings": "Image Settings",
+    "asciiSettings": "ASCII Art",
+    "emojiSettings": "Emoji Settings",
+    "groupSettings": "Grouping",
+    "labels": {
+      "textColor": "Text Color",
+      "background": "Background",
+      "fontSize": "Font Size",
+      "fontWeight": "Weight",
+      "padding": "Padding",
+      "radius": "Radius",
+      "border": "Border",
+      "startColor": "Start Color",
+      "endColor": "End Color",
+      "direction": "Direction",
+      "label": "Text",
+      "imageUrl": "Image URL",
+      "width": "Width (px)",
+      "height": "Height (px)",
+      "leftSide": "Left Side (Label)",
+      "rightSide": "Right Side (Value)",
+      "artColor": "Art Color",
+      "groupLabel": "Group Label",
+      "enableGroup": "Wrap in Console Group",
+      "collapsed": "Start Collapsed",
+      "emojiSize": "Size (px)"
+    },
+    "buttons": {
+      "generateAscii": "Generate Art with AI"
+    },
+    "options": {
+      "normal": "Normal",
+      "bold": "Bold",
+      "light": "Light",
+      "extraBold": "Extra Bold",
+      "toRight": "To Right (→)",
+      "toLeft": "To Left (←)",
+      "toBottom": "To Bottom (↓)",
+      "toTop": "To Top (↑)",
+      "toBottomRight": "To Bottom Right (↘)"
+    },
+    "note": {
+      "image": "Note: Image logging uses advanced CSS hacks. It works best in Chrome/Edge DevTools."
+    }
+  },
+  "preview": {
+    "title": "Playground",
+    "info": "Press Run to see result in Browser Console",
+    "consoleTitle": "Console",
+    "runBtn": "Run Sequence",
+    "filter": {
+      "console": "Console",
+      "elements": "Elements",
+      "network": "Network",
+      "sources": "Sources"
+    },
+    "cleared": "Console was cleared"
+  },
+  "code": {
+    "tabLib": "With Library",
+    "tabRaw": "Raw (No Dep)",
+    "tabSource": "Library Source",
+    "hintLib": "Requires helper functions",
+    "hintRaw": "Copy & Paste anywhere",
+    "hintSource": "utils/consoleLib.ts",
+    "copy": "Copy Code",
+    "copied": "Copied!",
+    "footer": "Don't forget to copy the Library Source (Tab 3) to your project first!"
+  }
+}

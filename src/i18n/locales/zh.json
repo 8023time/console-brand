@@ -1,0 +1,122 @@
+{
+  "app": {
+    "title": "Console Artisan",
+    "subtitle": "控制台日志美化工具",
+    "ready": "就绪",
+    "version": "v1.4.0",
+    "theme": {
+      "dark": "暗色",
+      "light": "亮色"
+    }
+  },
+  "sequence": {
+    "title": "日志序列",
+    "add": "添加日志",
+    "empty": "序列为空",
+    "item": "日志"
+  },
+  "ai": {
+    "sectionTitle": "AI 智能生成",
+    "placeholder": "描述风格 (例如：'赛博朋克错误提示')",
+    "btnStyles": "生成样式",
+    "btnData": "生成数据",
+    "generating": "思考中..."
+  },
+  "library": {
+    "title": "我的预设库",
+    "save": "保存预设",
+    "savePlaceholder": "预设名称...",
+    "empty": "暂无保存的预设。",
+    "load": "加载",
+    "delete": "删除",
+    "saved": "已保存!"
+  },
+  "tabs": {
+    "logType": "日志类型",
+    "presets": "快速预设"
+  },
+  "inputs": {
+    "messageLabel": "消息内容",
+    "messagePlaceholder": "你想要打印什么？",
+    "jsonLabel": "标签",
+    "jsonPayload": "JSON 数据",
+    "asciiText": "文本转艺术字",
+    "asciiPlaceholder": "输入文本...",
+    "emojiLabel": "表情符号"
+  },
+  "controls": {
+    "appearance": "外观样式",
+    "typography": "字体排版",
+    "boxModel": "盒模型",
+    "gradientSetup": "渐变设置",
+    "badgeConfig": "徽章配置",
+    "imageSettings": "图片设置",
+    "asciiSettings": "ASCII 艺术",
+    "emojiSettings": "表情设置",
+    "groupSettings": "分组设置",
+    "labels": {
+      "textColor": "文字颜色",
+      "background": "背景颜色",
+      "fontSize": "字体大小",
+      "fontWeight": "字重",
+      "padding": "内边距",
+      "radius": "圆角",
+      "border": "边框",
+      "startColor": "起始颜色",
+      "endColor": "结束颜色",
+      "direction": "渐变方向",
+      "label": "文本内容",
+      "imageUrl": "图片链接",
+      "width": "宽度 (px)",
+      "height": "高度 (px)",
+      "leftSide": "左侧 (标签)",
+      "rightSide": "右侧 (值)",
+      "artColor": "艺术字颜色",
+      "groupLabel": "分组标签",
+      "enableGroup": "开启控制台分组 (Group)",
+      "collapsed": "默认折叠",
+      "emojiSize": "尺寸 (px)"
+    },
+    "buttons": {
+      "generateAscii": "使用 AI 生成艺术字"
+    },
+    "options": {
+      "normal": "常规",
+      "bold": "加粗",
+      "light": "细体",
+      "extraBold": "特粗",
+      "toRight": "向右 (→)",
+      "toLeft": "向左 (←)",
+      "toBottom": "向下 (↓)",
+      "toTop": "向上 (↑)",
+      "toBottomRight": "向右下 (↘)"
+    },
+    "note": {
+      "image": "注意：图片日志使用了 CSS Hack 技术，在 Chrome/Edge 开发者工具中效果最佳。"
+    }
+  },
+  "preview": {
+    "title": "预览面板",
+    "info": "按运行按钮以在浏览器控制台查看真实效果",
+    "consoleTitle": "终端",
+    "runBtn": "运行序列",
+    "filter": {
+      "console": "控制台",
+      "elements": "元素",
+      "network": "网络",
+      "sources": "源代码"
+    },
+    "cleared": "控制台已清空"
+  },
+  "code": {
+    "tabLib": "使用库函数",
+    "tabRaw": "原生代码",
+    "tabSource": "库源码",
+    "hintLib": "需要配合 helper 函数",
+    "hintRaw": "即拷即用，无依赖",
+    "hintSource": "utils/consoleLib.ts",
+    "copy": "复制代码",
+    "copied": "已复制!",
+    "footer": "提示：使用库函数模式前，请先将【库源码】复制到你的项目中！"
+  }
+}

@@ -1,0 +1,11 @@
+/dist/*
+/build/*
+/public/*
+
+.local
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+src/generated/*
