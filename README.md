@@ -10,7 +10,11 @@
 
 <div style="text-align: center;">
   <img src="./public/example2.png" alt="Example" />
+
+    ---
+
   <img src="./public/example.png" alt="Example" />
+
 ## Key Features
 
 - **Online Customization**  
