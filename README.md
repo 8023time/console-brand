@@ -9,9 +9,8 @@
 ## Demo
 
 <div style="text-align: center;">
+  <img src="./public/example2.png" alt="Example" />
   <img src="./public/example.png" alt="Example" />
-</div>
-
 ## Key Features
 
 - **Online Customization**  
