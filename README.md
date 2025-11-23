@@ -14,6 +14,7 @@
     ---
 
   <img src="./public/example.png" alt="Example" />
+</div>
 
 ## Key Features
 
